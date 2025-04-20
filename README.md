@@ -1,6 +1,8 @@
  🧑‍⚖️ AI Judge Assistant
 
 **AI-powered legal case analyzer and judgment predictor built using LegalBERT and T5 models**
+CODE :liNK 
+https://drive.google.com/drive/folders/1qHU-aVsRJQLc-y42FQmd6YJPOYS0pjiF?usp=sharing
 
 ## 🧠 About the Project
 AI Judge Assistant is an intelligent legal assistant designed to support judges, lawyers, and researchers by analyzing legal case descriptions and providing:
